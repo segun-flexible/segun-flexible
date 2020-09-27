@@ -33,11 +33,11 @@ Here's a list of things I currently keep myself busy with:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=segun-flexible&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Segun Flexible's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/segun-flexible/react-redux-movie-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=react-redux-movie-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/segun-flexible/github-profile-finder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=github-profile-finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
