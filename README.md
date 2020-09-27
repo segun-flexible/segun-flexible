@@ -63,3 +63,7 @@ Here's a list of things I currently keep myself busy with:
 <a href="https://github.com/segun-flexible/github-profile-finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=github-profile-finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
