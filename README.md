@@ -64,6 +64,12 @@ Here's a list of things I currently keep myself busy with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=github-profile-finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://wapforum.com.ng/User-flexible" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+
+
+</p>
+
+<br />
