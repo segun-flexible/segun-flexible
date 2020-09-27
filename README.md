@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
-
+<br>
 I Am Segun Flexible, Am A Full Stack JS Developer, Speaker And Problem Solver
 
 Here's a list of things I currently keep myself busy with:
@@ -23,7 +23,21 @@ Here's a list of things I currently keep myself busy with:
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## 🎯 Github Stats
 
-<span>![My github stats](https://github-readme-stats.vercel.app/api?username=segun-flexible&show_icons=true&theme=nord)</span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segun-flexible&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></span>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/segun-flexible/segun-flexible">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segun-flexible&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/segun-flexible/segun-flexible">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=segun-flexible&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Segun Flexible's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
