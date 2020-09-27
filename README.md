@@ -68,8 +68,11 @@ Here's a list of things I currently keep myself busy with:
 
 <p align="center">
  <a href="https://wapforum.com.ng/User-flexible" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://facebook.com/segun.ayodele.7509" target="_blank" rel="noopener noreferrer"> <img src="http://assets.stickpng.com/images/584ac2d03ac3a570f94a666d.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"> </a>
 
 
 </p>
 
 <br />
+
+
