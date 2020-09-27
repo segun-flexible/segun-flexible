@@ -23,7 +23,7 @@ Here's a list of things I currently keep myself busy with:
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-
+ 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/segun-flexible/segun-flexible">
