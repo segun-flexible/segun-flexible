@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
 <br>
@@ -8,7 +8,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 👩💻 Working as a full stack developer 
 - ☀️ Maintaining 
-- 🙇 Learning New Technologies
+- 🙇 Learning Arabic
 - 🛠 Getting My Hand Dirty Always
 
 
