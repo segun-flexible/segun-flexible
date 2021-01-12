@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
 <br>
-I Am Segun Flexible, Am A Full Stack JS Developer, Speaker And Problem Solver
+I Am Segun Flexible, Am A Software Developer, Speaker And Problem Solver
 
 Here's a list of things I currently keep myself busy with:
 
