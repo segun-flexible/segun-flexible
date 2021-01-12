@@ -1,3 +1,4 @@
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=segun-flexible" />
 # Hello, Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
