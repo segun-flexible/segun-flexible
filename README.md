@@ -10,7 +10,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 👩💻 Working as a full stack developer 
 - ☀️ Maintaining 
-- 🙇 Learning Arabic
+- 🙇 Learning Product Design
 - 🛠 Getting My Hand Dirty Always
 
 
