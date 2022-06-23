@@ -74,5 +74,10 @@ Here's a list of things I currently keep myself busy with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=github-profile-finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+##  Working Experiences:
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=segun_flexible&max-items=5&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
+/>
+
 <br />
 
