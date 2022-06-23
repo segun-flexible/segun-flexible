@@ -76,7 +76,7 @@ Here's a list of things I currently keep myself busy with:
 
 ##  Working Experiences:
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=segun_flexible&max-items=5&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=segun_flexible&max-items=2&dates=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
 
 <br />
