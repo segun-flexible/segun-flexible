@@ -59,7 +59,7 @@ Here's a list of things I currently keep myself busy with:
 ## &#x1f4c8; GitHub Stats
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=segun-flexible&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 <a href="https://github.com/segun-flexible/segun-flexible">
