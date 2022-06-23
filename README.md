@@ -27,6 +27,7 @@ Here's a list of things I currently keep myself busy with:
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express  Js" height="40" style="vertical-align:top; margin:4px">
+ <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png)" alt="Golang" height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Js" height="40" style="vertical-align:top; margin:4px">
  
@@ -73,11 +74,6 @@ Here's a list of things I currently keep myself busy with:
 <a href="https://github.com/segun-flexible/github-profile-finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segun-flexible&repo=github-profile-finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-##  Working Experiences:
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=segun_flexible&max-items=2&dates=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
-/>
 
 <br />
 
