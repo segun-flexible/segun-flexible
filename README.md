@@ -3,8 +3,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
 <br>
-I Am Segun Flexible, Am A Software Developer, Speaker And Problem Solver
-I Spend Most Of My Time Building Automation Tools And Software......Have Been Writing Code Since 2011
+I Am Segun Flexible, Am A Software Developer, Speaker And Problem Solver<br>
+I Spend Most Of My Time Building Automation Tools And Software
+<br>
+Have Been Writing Code Since 2011......
 
 Here's a list of things I currently keep myself busy with:
 
