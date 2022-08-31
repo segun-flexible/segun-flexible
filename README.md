@@ -11,8 +11,8 @@ I Have Been Writing Code Since 2011......
 Here's a list of things I currently keep myself busy with:
 
 - 👩💻 Working as a full stack developer 
-- ☀️ Maintaining 
-- 🙇 Learning Product Design
+- ☀️ Maintaining & Collaborating
+- 🙇 Building Some Softwares Using C++ & Golang
 - 🛠 Getting My Hand Dirty Always
 
 
