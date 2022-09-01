@@ -1,4 +1,5 @@
 
+<codersrank-portfolio username="segun-flexible" logos></codersrank-portfolio>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
