@@ -7,7 +7,7 @@
 I Am Segun Flexible, Am A Software Developer, Speaker And Problem Solver<br>
 I Spend Most Of My Time Building Automation Tools And Software
 <br>
-I Have Been Writing Code Since 2011......
+I Have Been Writing Code Since 2010......
 
 Here's a list of things I currently keep myself busy with:
 
