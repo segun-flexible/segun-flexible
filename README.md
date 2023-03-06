@@ -4,8 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
 [![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
 <br>
-I Am Segun Flexible, Am A Software Developer, Speaker And Problem Solver<br>
-I Spend Most Of My Time Building Automation Tools And Software
+I Am Segun Flexible, Am A Software Developer, Blockchain Developer And Problem Solver<br>
+I Spend Most Of My Time Building Automation Tools, Blockchain & Web3 And Softwares
 <br>
 I Have Been Writing Code Since 2010......
 
@@ -13,7 +13,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 👩💻 Working as a full stack developer 
 - ☀️ Maintaining & Collaborating
-- 🙇 Building Some Softwares Using C++ & Golang
+- 🙇 Building Blockchain & Web3 Projects, Building Some Softwares Using C++ & Golang
 - 🛠 Getting My Hand Dirty Always
 
 
