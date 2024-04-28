@@ -1,14 +1,8 @@
-
-<codersrank-portfolio username="segun-flexible" logos></codersrank-portfolio>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=segun-flexible)
-[![Github](https://img.shields.io/github/followers/segun-flexible?label=Follow&style=social)](https://github.com/segun-flexible)
+My name is Segun Flexible, and I am a seasoned Software Developer with expertise in Blockchain technology. I specialize in crafting innovative solutions to complex problems.
+My professional journey spans over a decade, during which I have honed my skills in developing automation tools, blockchain applications, and Web3 solutions.
+With a passion for problem-solving, I dedicate the majority of my time to architecting robust software systems that drive efficiency and foster technological advancement.
+My coding journey commenced in 2010, and since then, I have continuously strived for excellence in delivering high-quality software solutions that meet the ever-evolving needs of the industry.
 <br>
-I Am Segun Flexible, Am A Software Developer, Blockchain Developer And Problem Solver<br>
-I Spend Most Of My Time Building Automation Tools, Blockchain & Web3 And Softwares
-<br>
-I Have Been Writing Code Since 2010......
-
 Here's a list of things I currently keep myself busy with:
 
 - 👩💻 Working as a full stack developer 
