@@ -1,14 +1,14 @@
 My name is Segun Flexible, and I am a seasoned Software Developer with expertise in Blockchain technology. I specialize in crafting innovative solutions to complex problems.
 <br>
 My professional journey spans over a decade, during which I have honed my skills in developing automation tools, blockchain applications, and Web3 solutions.
-<br>
+<br><br>
 With a passion for problem-solving, I dedicate the majority of my time to architecting robust software systems that drive efficiency and foster technological advancement.
 <br>
 My coding journey commenced in 2010, and since then, I have continuously strived for excellence in delivering high-quality software solutions that meet the ever-evolving needs of the industry.
 <br><br>
 Here's a list of things I currently keep myself busy with:
 
-- 👩💻 Working as a full stack developer 
+- 💻 Working as a full stack developer 
 - ☀️ Maintaining & Collaborating
 - 🙇 Building Blockchain & Web3 Projects, Building Some Softwares Using C++ & Golang
 - 🛠 Getting My Hand Dirty Always
