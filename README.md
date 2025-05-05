@@ -12,6 +12,7 @@ Here's a list of things I currently keep myself busy with:
 - ☀️ Maintaining & Collaborating
 - 🙇 Building Blockchain & Web3 Projects, Building Some Softwares Using C++ & Golang
 - 🛠 Getting My Hand Dirty Always
+- 🤩 Teaching My Two Daughters The Logic And Masterminds Of Programming
 
 
 
